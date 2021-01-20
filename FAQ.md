@@ -40,7 +40,7 @@ You must make sure you have install MetaMask(https://metamask.io) and unlock the
 The default number is 175, the max number is 200. This depends on the gas limit of Ethereum. If it is too large, the transaction may fail. 175 is the number we have tested with a high success rate. If you still often fail, try to reduce this number.
 
 ## What's the tx fee of one transaction?
-The default tx fee is 0.01ETH, But we have VIP membership, you just need to pay 1 ETH to be a VIP, the tx fee will be zero forever for your account.
+The default tx fee is 0.00ETH, But we have VIP membership, you just need to pay 0 ETH to be a VIP, the tx fee will be zero forever for your account.
 
 ## Is your smart contract open source?
 Sure, you can check them by the following link.
