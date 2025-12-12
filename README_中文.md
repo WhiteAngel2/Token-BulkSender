@@ -37,13 +37,13 @@
 | Address   |Amount |
 |----------|-------------|
 |0x7edbaa86b8d2757322342157d3a44ed0f583514e |12|
-|0x2f6321db2461f68676f42f396330a4dc4a8f49df |1123.126|
+|0x68cfdCfeaFFa2d5EdC8B7DB9F58Ba5B727444731 |1123.126|
 |0x001dbj28905DEA1a67940093fFeaCeee58cA91nc |1.03|
 
 例子文件 TXT:
 ```
 0x7edbaa86b8d2757322342157d3a44ed0f583514e,12
-0x2f6321db2461f68676f42f396330a4dc4a8f49df,1123.126
+0x68cfdCfeaFFa2d5EdC8B7DB9F58Ba5B727444731,1123.126
 0x001dbj28905DEA1a67940093fFeaCeee58cA91nc,1.03
 ```
 
@@ -56,11 +56,11 @@ https://ropsten.etherscan.io/tx/0xd79502721c914f32d42c83d326c62ce635d2df3f012cd6
 # 合约部署和源码
 合约部署:  
 Mainnet, ropsten  
-Mainnet: 0x2f6321db2461f68676f42f396330a4dc4a8f49df  
+Mainnet: 0x68cfdCfeaFFa2d5EdC8B7DB9F58Ba5B727444731  
 Ropsten: 0xfe25a97b5e3257e6e7164ede813c3d4fbb1c2e3b  
 
 源码:  
-Mainnet: https://etherscan.io/address/0x2f6321db2461f68676f42f396330a4dc4a8f49df#code  
+Mainnet: https://etherscan.io/address/0x68cfdCfeaFFa2d5EdC8B7DB9F58Ba5B727444731#code  
 Ropsten: https://ropsten.etherscan.io/address/0xfe25a97b5e3257e6e7164ede813c3d4fbb1c2e3b#code 
 
 
